@@ -67,7 +67,7 @@
     <div class="container">
         <div class="message-box">
             <!-- <h2>Today's Telugu Message</h2> -->
-            <!-- <div class="date" id="today-date"></div> -->
+            <div class="date" id="today-date"></div>
             <div id="telugu-message">
                 <p class="loading">Loading today's Telugu devotional...</p>
             </div>
@@ -110,7 +110,7 @@
 
         function displayDate(date) {
             const options = { month: 'long', day: 'numeric' };
-            return date.toLocaleDateString('en-US', options);
+            return date.toLocaleDateString('en-IN', options);
         }
 
         function loadDevotional(elementId, url) {
@@ -143,7 +143,8 @@
         logDebug(`Current date: ${today.toString()}`);
         
         // Load specific Telugu devotional from sid.jpan.in
-        const teluguUrl = 'https://sid.jpan.in/apr12t.html';
+        const teluguFile = formatDate(today) + 't.html';  // "apr13t.html" for April 13
+        const teluguUrl = `https://sid.jpan.in/${teluguFile}`;
         logDebug(`Today's Telugu URL: ${teluguUrl}`);
         
         // Load yesterday's English devotional (local file)
