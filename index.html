@@ -149,8 +149,9 @@
         
         // Load yesterday's English devotional (local file)
         const englishFile = formatDate(yesterday) + 'e.html';
-        logDebug(`Yesterday's English file: ${englishFile}`);
-        
+        const englishUrl = `https://sid.jpan.in/${englishFile}`;
+        logDebug(`Yesterday's English file: ${englishUrl}`);
+
         // Load devotionals
         loadDevotional('telugu-message', teluguUrl);
         loadDevotional('english-message', englishFile);
