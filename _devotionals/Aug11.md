@@ -1,6 +1,7 @@
 ---
 title: "ఎడారిలో  సెలయేర్లు"
-date: ఆగస్టు 11
+date: Aug11
+telugu_date: "ఆగస్టు 11"
 layout: devotional
 lang: te
 ---

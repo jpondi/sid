@@ -1,6 +1,7 @@
 ---
 title: "ఎడారిలో  సెలయేర్లు"
-date: మార్చి 13
+date: Mar13
+telugu_date: "మార్చి 13"
 layout: devotional
 lang: te
 ---

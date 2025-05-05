@@ -1,6 +1,7 @@
 ---
 title: "ఎడారిలో  సెలయేర్లు"
-date: అక్టోబర్ 21
+date: Oct21
+telugu_date: "అక్టోబర్ 21"
 layout: devotional
 lang: te
 ---

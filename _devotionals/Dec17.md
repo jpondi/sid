@@ -1,6 +1,7 @@
 ---
 title: "ఎడారిలో  సెలయేర్లు"
-date: డిసెంబర్ 17
+date: Dec17
+telugu_date: "డిసెంబర్ 17"
 layout: devotional
 lang: te
 ---
