@@ -1,19 +1,29 @@
 /* General Styles */
 
+body,header,footer,main,section,article,nav,aside,p,ul,li,a {
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
 .devotional-content {
   /* max-width: 700px; */
-  margin: auto;
+  /* margin: auto; */
   /* padding: 1px; */
+  
   font-family: 'Noto Sans Telugu', sans-serif;
   line-height: 1.4;
   background-color: #f9f9f9;  /* Light background */
   /* border-radius: 8px; */
+
 }
 
 .devotional-header {
   text-align: center;
-  /* margin-bottom: 1rem; */
-  background-color: #e8f5e9;  /* Soft Green background for header */
+
+    background-color: #e8f5e9;  /* Soft Green background for header */
   /* padding: .1rem; */
   padding: 1px;
   /* margin: 10px; */
@@ -22,6 +32,8 @@
 }
 
 .devotional-title {
+    /* margin-bottom: 1rem; */
+    margin: 0.5rem 0;
   font-size: 1.4rem;
   font-weight: bold;
   color: #1b5e20;  /* Dark green text for header */
@@ -33,11 +45,11 @@
 }
 
 .devotional-body {
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
   font-size: 1rem;
   color: #34495e;  /* Dark grey for body text */
   background-color: #ffffff; /* White background for content */
-  padding: 1rem;
+  padding: .5rem;
   /* border-radius: 8px; */
   /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
 }
