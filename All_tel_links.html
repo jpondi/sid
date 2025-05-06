@@ -1,0 +1,50 @@
+---
+layout: default
+title: Devotional Navigation
+---
+
+<style>
+.navigation-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.day-link {
+    padding: 10px 15px;
+    border: 2px solid #3498db;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    min-width: 100px;
+    text-align: center;
+    background-color: white;
+}
+
+.day-link:hover {
+    background-color: #3498db;
+    color: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.date {
+    display: block;
+}
+</style>
+
+<h1 style="text-align:center;">ఎడారిలో సెలయేర్లు - తెలుగు</h1>
+
+<div class="navigation-container">
+  {% assign sorted = site.devotionals | sort: "path" %}
+  {% for devotional in sorted %}
+    {% assign filename = devotional.path | split: "/" | last | split: "." | first %}
+    <a class="day-link" href="{{ devotional.url }}">
+      <span class="date">{{ filename | capitalize }}</span>
+    </a>
+  {% endfor %}
+</div>

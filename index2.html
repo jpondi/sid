@@ -93,26 +93,27 @@
             debugOutput.innerHTML += `<p>${message}</p>`;
             console.log(message);
         }
-
-        function formatDate(date) {
+    
+        function formatDate(date, capitalize = false) {
             const months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 
-                          'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
-            const month = months[date.getMonth()];
+                            'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
+            const monthRaw = months[date.getMonth()];
+            const month = capitalize ? monthRaw.charAt(0).toUpperCase() + monthRaw.slice(1) : monthRaw;
             const day = date.getDate().toString().padStart(2, '0');
             return month + day;
         }
-
+    
         function getYesterday(date) {
             const yesterday = new Date(date);
             yesterday.setDate(yesterday.getDate() - 1);
             return yesterday;
         }
-
+    
         function displayDate(date) {
             const options = { month: 'long', day: 'numeric' };
             return date.toLocaleDateString('en-IN', options);
         }
-
+    
         function loadDevotional(elementId, url) {
             logDebug(`Attempting to load: ${url}`);
             
@@ -131,30 +132,29 @@
                     logDebug(`Error loading ${url}: ${error.message}`);
                 });
         }
-
-        // Main execution
+    
         const today = new Date();
         const yesterday = getYesterday(today);
-        
-        // Display dates
+    
         document.getElementById('today-date').textContent = displayDate(today);
         document.getElementById('yesterday-date').textContent = displayDate(yesterday);
-        
+    
         logDebug(`Current date: ${today.toString()}`);
-        
-        // Load specific Telugu devotional from sid.jpan.in
-        const teluguFile = formatDate(today) + 't.html';  // "apr13t.html" for April 13
-        const teluguUrl = `https://sid.jpan.in/${teluguFile}`;
+    
+        // Telugu devotional: ./te/Apr01.html
+        const teluguFile = formatDate(today, true) + '.html';
+        const teluguUrl = `./te/${teluguFile}`;
         logDebug(`Today's Telugu URL: ${teluguUrl}`);
-        
-        // Load yesterday's English devotional (local file)
+    
+        // English devotional: still using sid.jpan.in/apr01e.html
         const englishFile = formatDate(yesterday) + 'e.html';
         const englishUrl = `https://sid.jpan.in/${englishFile}`;
-        logDebug(`Yesterday's English file: ${englishUrl}`);
-
-        // Load devotionals
+        logDebug(`Yesterday's English URL: ${englishUrl}`);
+    
         loadDevotional('telugu-message', teluguUrl);
-        loadDevotional('english-message', englishFile);
+        loadDevotional('english-message', englishUrl);
     </script>
+    
+
 </body>
 </html>
