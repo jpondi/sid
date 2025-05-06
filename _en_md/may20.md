@@ -1,0 +1,32 @@
+---
+english_date: May 20
+title: "Streams in the Desert"
+date: 2023-05-20
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>Shall I refuse to drink the cup of sorrow which the Father has given me to drink?</em> (John 18:11, Weymouth).
+
+</p>
+
+<p>God takes a thousand times more pains with us than the artist with his picture, by many touches of sorrow, and by many colors of circumstance, to bring us into the form which is the highest and noblest in His sight, if only we receive His gifts of myrrh in the right spirit.
+
+</p>
+
+<p>But when the cup is put away, and these feelings are stifled or unheeded, a greater injury is done to the soul that can ever be amended. For no heart can conceive in what surpassing love God giveth us this myrrh; yet this which we ought to receive to our souls' good we suffer to pass by us in our sleepy indifference, and nothing comes of it.
+
+</p>
+
+<p>Then we come and complain: "Alas, Lord! I am so dry, and it is so dark within me!" I tell thee, dear child, open thy heart to the pain, and it will do thee more good than if thou wert full of feeling and devoutness.<br/> <em>--Tauler</em>
+
+</p>
+
+<p><em>The cry of man's anguish went up to God,</em><br/> <em><em>"Lord take away pain:</em><br/> <em>The shadow that darkens the world Thou hast made,</em><br/> <em>The close-coiling chain</em><br/> <em>That strangles the heart, the burden that weighs</em><br/> <em>On the wings that would soar,</em><br/> <em>Lord, take away pain from the world Thou hast made,</em><br/> <em>That it love Thee the more."</em><br/> <em>Then answered the Lord to the cry of His world:</em><br/> <em>"Shall I take away pain,</em><br/> <em>And with it the power of the soul to endure,</em><br/> <em>Made strong by the strain?</em><br/> <em>Shall I take away pity, that knits heart to heart</em><br/> <em>And sacrifice high?</em><br/> <em>Will ye lose all your heroes that lift from the fire</em><br/> <em>White brows to the sky?</em><br/> <em>Shall I take away love that redeems with a price</em><br/> <em>And smiles at its loss?</em><br/> <em>Can ye spare from your lives that would climb unto Me</em><br/> <em>The Christ on His cross?"</em></em>
+
+</p>
+
+<p></p>

@@ -1,0 +1,40 @@
+---
+english_date: Feb 8
+title: "Streams in the Desert"
+date: 2023-02-08
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>And, lo, I am with you always</em> (Matthew 28:20).
+
+</p>
+
+<p>Never look ahead to the changes and challenges of this life in fear. Instead, as they arise look at them with the full assurance that God, whose you are, will deliver you out of them. Hasn't He kept you safe up to now? So hold His loving hand tightly, and He will lead you safely through all things. And when you cannot stand, He will carry you in His arms.
+
+</p>
+
+<p>Do not look ahead to what <em>may</em> happen tomorrow. The same everlasting Father who cares for you today will take care of you tomorrow and every day. Either He will shield you from suffering or He will give you His unwavering strength that you may bear it. Be at peace, then, and set aside all anxious thoughts and worries.<br/> <em>--Francis de Sales</em>
+
+</p>
+
+<p>The Lord is my shepherd. <em>Psalm 23:1</em>
+
+</p>
+
+<p>Not <em>was</em>, not <em>may be</em>, nor <em>will be</em>. "The Lord <em>is</em> my shepherd." He <em>is</em> on Sunday, on Monday, and through every day of the week. He <em>is</em> in January, in December, and every month of the year. He <em>is</em> when I'm at home and in China. He <em>is</em> during peace and war, and in times of abundance or poverty.<br/> <em>--J. Hudson Taylor</em>
+
+</p>
+
+<p><em>He will silently plan for you,<br/> His object of omniscient care;<br/> God Himself undertakes to be<br/> Your Pilot through each subtle snare.<br/> He WILL silently plan for you,<br/> So certainly, He cannot fail!<br/> Rest on the faithfulness of God,<br/> In Him you will surely prevail.<br/> He will SILENTLY plan for you<br/> Some wonderful surprise of love.<br/> No eye has seen, nor ear has heard,<br/> But it is kept for you above.<br/> He will silently PLAN for you,<br/> His purposes will all unfold;<br/> Your tangled life will shine at last,<br/> A masterpiece of skill untold.<br/> He will silently plan FOR YOU,<br/> Happy child of a Father's care,<br/> As if no other claimed His love,<br/> But you alone to Him were dear.</em><br/> --E. Mary Grimes
+
+</p>
+
+<p style="margin-left:40px"><em>Whatever our faith says God is, He will be</em>.
+
+</p>
+
+<p></p>

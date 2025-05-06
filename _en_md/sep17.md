@@ -1,0 +1,36 @@
+---
+english_date: Sep 17
+title: "Streams in the Desert"
+date: 2023-09-17
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>"It is the Lord: let him do what seemeth him good"</em> (1 Sam. 3:18)
+
+</p>
+
+<p>See God in everything, and God will calm and color all that thou dost see!" It may be that the circumstances of our sorrows will not be removed, their condition will remain unchanged; but if Christ, as Lord and Master of our life, is brought into our grief and gloom, "HE will compass us about with songs of deliverance." To see HIM, and to be sure that His wisdom cannot err, His power cannot fail, His love can never change; to know that even His direst dealings with us are for our deepest spiritual gain, is to be able to say, in the midst of bereavement, sorrow, pain, and loss, "The Lord gave, and the Lord hath, taken away; blessed be the name of the Lord."
+
+</p>
+
+<p>Nothing else but seeing God in everything will make us loving and patient with those who annoy and trouble us. They will be to us then only instruments for accomplishing His tender and wise purposes toward us, and we shall even find ourselves at last inwardly thanking them for the blessings they bring us. Nothing else will completely put an end to all murmuring or rebelling thoughts.<br/> <em>--H. W. Smith</em>
+
+</p>
+
+<p><em>"Give me a new idea," I said,<br/> While musing on a sleepless bed;<br/> "A new idea that'll bring to earth<br/> A balm for souls of priceless worth;<br/> That'll give men thoughts of things above,<br/> And teach them how to serve and love,<br/> That'll banish every selfish thought,<br/> And rid men of the sins they've fought."<br/> The new thought came, just how, I'll tell:<br/> 'Twas when on bended knee I fell,<br/> And sought from HIM who knows full well<br/> The way our sorrow to expel.<br/> SEE GOD IN ALL THINGS, great and small,<br/> And give HIM praise whate'er befall,<br/> In life or death, in pain or woe,<br/> See God, and overcome thy foe.</em>
+
+</p>
+
+<p><em>I saw HIM in the morning light,<br/> HE made the day shine clear and bright;<br/> I saw HIM in the noontide hour,<br/> And gained from HIM refreshing shower.<br/> At eventide, when worn and sad,<br/> HE gave me help, and made me glad.<br/> At midnight, when on tossing bed<br/> My weary soul to sleep HE led.<br/> I saw HIM when great losses came,<br/> And found HE loved me just the same.<br/> When heavy loads I had to bear,<br/> I found HE lightened every care.<br/> By sickness, sorrow, sore distress,<br/> HE calmed my mind and gave me rest.<br/> HE'S filled my heart with gladsome praise<br/> Since I gave HIM the upward gaze.</em>
+
+</p>
+
+<p><em>'Twas new to me, yet old to some,<br/> This thought that to me has become<br/> A revelation of the way<br/> We all should live throughout the day;<br/> For as each day unfolds its light,<br/> We'll walk by faith and not by sight.<br/> Life will, indeed, a blessing bring,<br/> If we SEE GOD IN EVERYTHING."</em><br/> --A. E. Finn
+
+</p>
+
+<p></p>

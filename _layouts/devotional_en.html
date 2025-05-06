@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="devotional-content">
+
+  <header class="devotional-header">
+    <h1 class="devotional-title">{{ page.title }} - {{page.english_date}}</h1>
+     </header>
+
+  <section class="devotional-body">
+    {% assign devotional_content = content | markdownify %}
+    
+    {% for line in devotional_content %}
+      
+        {{ line }}     
+    {% endfor %}
+  </section>
+
+</article>

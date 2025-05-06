@@ -1,0 +1,68 @@
+---
+english_date: Apr 2
+title: "Streams in the Desert"
+date: 2023-04-02
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>They looked… and behold, the glory of the Lord appeared in the cloud"</em> (Exod. 16:10).
+
+</p>
+
+<p>Get into the habit of looking for the silver lining of the cloud and when you have found it, continue to look at it, rather than at the leaden gray in the middle.
+
+</p>
+
+<p>Do not yield to discouragement no matter how sorely pressed or beset you may be. A discouraged soul is helpless. He can neither resist the wiles of the enemy himself, while in this state, nor can he prevail in prayer for others.
+
+</p>
+
+<p>Flee from every symptom of this deadly foe as you would flee from a viper. And be not slow in turning your back on it, unless you want to bite the dust in bitter defeat.
+
+</p>
+
+<p>Search out God's promises and say aloud of each one: "This promise is mine." If you still experience a feeling of doubt and discouragement, pour out your heart to God and ask Him to rebuke the adversary who is so mercilessly nagging you.
+
+</p>
+
+<p>The very instant you whole-heartedly turn away from every symptom of distrust and discouragement, the blessed Holy Spirit will quicken your faith and inbreathe Divine strength into your soul.
+
+</p>
+
+<p>At first you may not be conscious of this, still as you resolutely and uncompromisingly "snub" every tendency toward doubt and depression that assails you, you will soon be made aware that the powers of darkness are falling back.
+
+</p>
+
+<p>Oh, if our eyes could only behold the solid phalanx of strength, of power, that is ever behind every turning away from the hosts of darkness, God-ward, what scant heed would be given to the effort of the wily foe to distress, depress, discourage us!
+
+</p>
+
+<p>All the marvelous attributes of the Godhead are on the side of the weakest believer, who in the name of Christ, and in simple, childlike trust, yields himself to God and turns to Him for help and guidance.  --Selected
+
+</p>
+
+<p>On a day in the autumn, I saw a prairie eagle mortally wounded by a rifle shot. His eye still gleamed like a circle of light. Then he slowly turned his head, and gave one more searching and longing look at the sky. He had often swept those starry spaces with his wonderful wings. The beautiful sky was the home of his heart. It was the eagle's domain. A thousand times he had exploited there his splendid strength. In those far away heights be had played with the lightnings, and raced with the winds, and now, so far away from home, the eagle lay dying, done to the death, because for once be forgot and flew too low. The soul is that eagle. This is not its home. It must not lose the skyward look. We must keep faith, we must keep hope, we must keep courage, we must keep Christ. We would better creep away from the battlefield at once if we are not going to be brave. There is no time for the soul to stampede. Keep the skyward look, my soul; keep the skyward look!
+
+</p>
+
+<p><em>"Keep looking up--</em><br/> <em>The waves that roar around thy feet,</em><br/> <em>Jehovah-Jireh will defeat</em><br/> <em>When looking up.</em>
+
+</p>
+
+<p><em>"Keep looking up--</em><br/> <em>Though darkness seems to wrap thy soul;</em><br/> <em>The Light of Light shall fill thy soul</em><br/> <em>When looking up.</em>
+
+</p>
+
+<p><em>"Keep looking up--</em><br/> <em>When worn, distracted with the fight;</em><br/> <em>Your Captain gives you conquering might</em><br/> <em>When you look up."</em>
+
+</p>
+
+<p>We can never see the sun rise by looking into the west.<br/> <em>--Japanese Proverb</em>
+
+</p>
+
+<p></p>

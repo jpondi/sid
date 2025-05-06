@@ -1,0 +1,60 @@
+---
+english_date: Dec 25
+title: "Streams in the Desert"
+date: 2023-12-25
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><br/> <em>“Look! The virgin will conceive and bear a son, and they will call him Emmanuel,” which means “God with us.” </em>—Matt 1:23
+
+</p>
+
+<p><em>For a child has been born to us, a son has been given to us. He shoulders responsibility and is called: Extraordinary Strategist, Mighty God, Everlasting Father, Prince of Peace.</em> —Isa 9:6
+
+</p>
+
+<p><em>“There’s a song in the air!<br/> There’s a star in the sky!<br/> There’s a mother’s deep prayer,<br/> And a baby’s low cry!<br/> And the star rains its fire<br/> While the beautiful sing,<br/> For the manger of Bethlehem cradles a King.”</em>
+
+</p>
+
+<p>A few years ago a striking Christmas card was published, with the title, “If Christ had not come.” It was founded upon our Saviour’s words, “If I had not come.” The card represented a clergyman falling into a short sleep in his study on Christmas morning and dreaming of a world into which Jesus had never come.
+
+</p>
+
+<p>In his dream he found himself looking through his home, but there were no little stockings in the chimney corner, no Christmas bells or wreaths of holly, and no Christ to comfort, gladden and save. He walked out on the public street, but there was no church with its spire pointing to Heaven. He came back and sat down in his library, but every book about the Saviour had disappeared.
+
+</p>
+
+<p>A ring at the door-bell, and a messenger asked him to visit a poor dying mother. He hastened with, the weeping child and as he reached the home he sat down and said, “I have something here that will comfort you.” He opened his Bible to look for a familiar promise, but it ended at Malachi, and there was no gospel and no promise of hope and salvation, and he could only bow his head and weep with her in bitter despair.
+
+</p>
+
+<p>Two days afterward he stood beside her coffin and conducted the funeral service, but there was no message of consolation, no word of a glorious resurrection, no open Heaven, but only “dust to dust, ashes to ashes,” and one long eternal farewell. He realized at length that “He had not come,” and burst into tears and bitter weeping in his sorrowful dream.
+
+</p>
+
+<p>Suddenly he woke with a start, and a great shout of joy and praise burst from his lips as he heard his choir singing in his church close by:
+
+</p>
+
+<p><em>“O come, all ye faithful, joyful and triumphant,<br/> O come ye, O come ye to Bethlehem;<br/> Come and behold Him, born the King of Angels,<br/> O come let us adore Him, Christ, the Lord.”</em>
+
+</p>
+
+<p>Let us be glad and rejoice today, because “He has come.” And let us remember the annunciation of the angel, “Behold I bring you good tidings of great joy, which shall be to all people, for unto you is born this day in the city of David a Saviour, which is Christ the Lord.” (Luke 2:10, 11).
+
+</p>
+
+<p>“He comes to make His blessing flow, Far as the curse is found.”
+
+</p>
+
+<p>May our hearts go out to the people in heathen lands who have no blessed Christmas day. “Go your way, eat the fat, drink the sweet, and SEND PORTIONS TO THEM FOR WHOM NOTHING IS PREPARED.” (Neh. 8:10).
+
+</p>
+
+<p></p>

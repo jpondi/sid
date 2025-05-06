@@ -1,0 +1,60 @@
+---
+english_date: Jun 22
+title: "Streams in the Desert"
+date: 2023-06-22
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>Hatred stirs up dissension, but love covers all transgressions</em>. (Prov 10:12)
+
+</p>
+
+<p>Rehearse your troubles to God only. Not long ago I read in a paper a bit of personal experience from a precious child of God, and it made such an impression upon me that I record it here. She wrote:
+
+</p>
+
+<p>“I found myself one midnight wholly sleepless as the surges of a cruel injustice swept over me, and the love which covers seemed to have crept out of my heart. Then I cried to God in an agony for the power to obey His injunction, ’Love covereth.’
+
+</p>
+
+<p>“Immediately the Spirit began to work in me the power that brought about the forgetfulness.
+
+</p>
+
+<p>“Mentally I dug a grave. Deliberately I threw up the earth until the excavation was deep.
+
+</p>
+
+<p>“Sorrowfully I lowered into it the thing which wounded me. Quickly I shoveled in the clods.
+
+</p>
+
+<p>“Over the mound I carefully laid the green sods. Then I covered it with white roses and forget-me-nots, and quickly walked away.
+
+</p>
+
+<p>“Sweet sleep came. The wound which had been so nearly deadly was healed without a scar, and I know not today what caused my grief.”
+
+</p>
+
+<p><em>“There was a scar on yonder mountain-side,</em><br/> <em>Gashed out where once the cruel storm had trod;</em><br/> <em>A barren, desolate chasm, reaching wide,</em><br/> <em>Across the soft green sod.</em>
+
+</p>
+
+<p><em>“But years crept by beneath the purple pines,</em><br/> <em>And veiled the scar with grass and moss once more,</em><br/> <em>And left it fairer now with flowers and vines</em><br/> <em>Than it had been before.</em>
+
+</p>
+
+<p><em>“There was a wound once in a gentle heart,</em><br/> <em>Whence all life’s sweetness seemed to ebb and die;</em><br/> <em>And love’s confiding changed to bitter smart,</em><br/> <em>While slow, sad years went by.</em>
+
+</p>
+
+<p><em>“Yet as they passed, unseen an angel stole</em><br/> <em>And laid a balm of healing on the pain,</em><br/> <em>Till love grew purer in the heart made whole,</em><br/> <em>And peace came back again.”</em>
+
+</p>
+
+<p></p>

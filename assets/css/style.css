@@ -110,3 +110,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+p {
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  font-weight: bold;  
+}
+p em {
+  color: #ec3030; /* Darker green for bold text in paragraphs */
+ font-weight: bold;  
+}

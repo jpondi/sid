@@ -133,10 +133,10 @@
                 date.setDate(baseDate.getDate() + i);
                 
                 // English version
-                createDayLink(daysGrid, date, 'e');
+                createDayLink(daysGrid, date, 'en_md');
                 
                 // Telugu version
-                createDayLink(daysGrid, date, 't');
+                createDayLink(daysGrid, date, 'te');
             }
             
             weekSection.appendChild(daysGrid);
@@ -156,57 +156,46 @@
             daysGrid.className = 'days-grid';
             
             // English version
-            createDayLink(daysGrid, date, 'e', true);
+            createDayLink(daysGrid, date, 'en_md', true);
             
             // Telugu version
-            createDayLink(daysGrid, date, 't', true);
+            createDayLink(daysGrid, date, 'te', true);
             
             todaySection.appendChild(daysGrid);
             container.appendChild(todaySection);
         }
         
-        function createDayLink(container, date, language, isToday = false) {
-    const monthNames = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 
-                       'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
+        function createDayLink(container, date, folder, isToday = false) {
+            const monthNames = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 
+                               'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
 
-    const month = monthNames[date.getMonth()];
-    const day = date.getDate().toString().padStart(2, '0');
+            const month = monthNames[date.getMonth()];
+            const day = date.getDate().toString().padStart(2, '0');
 
-    let href = '';
-    let formattedDate = '';
+            // Correct URL format for English and Telugu
+            const href = `${folder}/${month.charAt(0).toUpperCase() + month.slice(1)}${day}.html`;
+            const formattedDate = `${month.charAt(0).toUpperCase() + month.slice(1)} ${day}`;
+            
+            const link = document.createElement('a');
+            link.className = `day-link ${isToday ? 'today' : ''}`;
+            link.href = href;
 
-    if (language === 'e') {
-        // English: e.g., apr01e.html (in current dir)
-        href = `${month}${day}e.html`;
-        formattedDate = `${month.charAt(0).toUpperCase() + month.slice(1)} ${day}`;
-    } else {
-        // Telugu: e.g., /te/Apr01.html (note capitalized month)
-        const capMonth = month.charAt(0).toUpperCase() + month.slice(1);
-        href = `te/${capMonth}${day}.html`;
-        formattedDate = `${capMonth} ${day}`;
-    }
+            const dateSpan = document.createElement('span');
+            dateSpan.className = 'date';
+            dateSpan.textContent = formattedDate;
 
-    const link = document.createElement('a');
-    link.className = `day-link ${isToday ? 'today' : ''}`;
-    link.href = href;
+            const langSpan = document.createElement('span');
+            langSpan.className = 'language';
+            langSpan.textContent = folder === 'en_md' ? '(English)' : '(Telugu)';
 
-    const dateSpan = document.createElement('span');
-    dateSpan.className = 'date';
-    dateSpan.textContent = formattedDate;
+            link.appendChild(dateSpan);
+            link.appendChild(langSpan);
 
-    const langSpan = document.createElement('span');
-    langSpan.className = 'language';
-    langSpan.textContent = language === 'e' ? '(English)' : '(Telugu)';
-
-    link.appendChild(dateSpan);
-    link.appendChild(langSpan);
-
-    container.appendChild(link);
-}
-
-        
+            container.appendChild(link);
+        }
     </script>
 
 <a class="day-link" style="margin: 0 auto;" href="All_tel_links.html">All 365 Devotionals (Telugu) </a>
+<a class="day-link" style="margin: 0 auto;" href="All_en_links.html">All 365 Devotionals (English) </a>
 </body>
 </html>

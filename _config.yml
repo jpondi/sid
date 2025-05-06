@@ -1,10 +1,13 @@
-title: Steams in the Desert
+title: Streams in the Desert
 baseurl: "" # leave empty if deploying at root, else use subpath
 markdown: kramdown
 collections:
   devotionals:
     output: true
-    permalink: /te/:path.html
+    permalink: /te/:path.html  # Telugu devotionals
+  en_md:
+    output: true
+    permalink: /en_md/:path.html  # English devotionals
 
 plugins:
   - jekyll-seo-tag

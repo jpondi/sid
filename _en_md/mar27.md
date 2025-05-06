@@ -1,0 +1,48 @@
+---
+english_date: Mar 27
+title: "Streams in the Desert"
+date: 2023-03-27
+lang: en
+layout: devotional_en
+---
+
+
+
+
+<p><em>I do not count the sufferings of our present life worthy of mention when compared with the glory that is to be revealed and bestowed upon us"</em> (Rom. 8:18, 20th Century Trans.).
+
+</p>
+
+<p>A remarkable incident occurred recently at a wedding in England. A young man of large wealth and high social position, who had been blinded by an accident when he was ten years old, and who won University honors in spite of his blindness, had won a beautiful bride, though he had never looked upon her face. A little while before his marriage, he submitted to a course of treatment by experts, and the climax came on the day of his wedding.
+
+</p>
+
+<p>The day came, and the presents, and guests. There were present cabinet ministers and generals arid bishops and learned men and women. The bridegroom, dressed for the wedding, his eyes still shrouded in linen, drove to the church with his father, and the famous oculist met them in the vestry.
+
+</p>
+
+<p>The bride entered the church on the arm of her white-haired father. So moved was she that she could hardly speak. Was her lover at last to see her face that others admired, but which he knew only through his delicate finger tips?
+
+</p>
+
+<p>As she neared the altar, while the soft strains of the wedding march floated through the church, her eyes fell on a strange group. The father stood there with his son. Before the latter was the great oculist in the act of cutting away the last bandage.
+
+</p>
+
+<p>The bridegroom took a step forward, with the spasmodic uncertainty of one who cannot believe that he is awake. A beam of rose-colored light from a pane in the chancel window fell across his face, but he did not seem to see it.
+
+</p>
+
+<p>Did he see anything? Yes! Recovering in an instant his steadiness of mien, and with a dignity and joy never before seen in his face, he went forward to meet his bride. They looked into each other's eyes, and one would have thought that his eyes would never wander from her face.
+
+</p>
+
+<p>"At last!" she said. "At last!" he echoed solemnly, bowing his head. That was a: scene of great dramatic power, and no doubt of great joy, and is but a mere suggestion of what will actually take place in Heaven when the Christian who has been walking through this world of trial and sorrow, shall see Him face to face.<br/> <em>--Selected</em>
+
+</p>
+
+<p><em>Just a-wearying for you,<br/> Jesus, Lord, beloved and true;<br/> Wishing for you, wondering when<br/> You'll be coming back again,<br/> Under all I say and do,<br/> Just a-wearying for you.<br/> Some glad day, all watching past,<br/> You will come for me at last;<br/> Then I'll see you, hear your voice,<br/> Be with you, with you rejoice;<br/> How the sweet hope thrills me through,<br/> Sets me wearying for you.</em>
+
+</p>
+
+<p></p>
