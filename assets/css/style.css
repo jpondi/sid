@@ -3,9 +3,9 @@
 .devotional-content {
   /* max-width: 700px; */
   margin: auto;
-  padding: 1rem;
+  /* padding: 1px; */
   font-family: 'Noto Sans Telugu', sans-serif;
-  line-height: 1.8;
+  line-height: 1.4;
   background-color: #f9f9f9;  /* Light background */
   /* border-radius: 8px; */
 }
@@ -14,13 +14,15 @@
   text-align: center;
   /* margin-bottom: 1rem; */
   background-color: #e8f5e9;  /* Soft Green background for header */
-  padding: 1rem;
+  /* padding: .1rem; */
+  padding: 1px;
+  /* margin: 10px; */
   /* border-radius: 8px; */
   /* border-bottom: 3px solid #2e7d32; Dark green accent border */
 }
 
 .devotional-title {
-  font-size: 2rem;
+  font-size: 1.4rem;
   font-weight: bold;
   color: #1b5e20;  /* Dark green text for header */
 }
