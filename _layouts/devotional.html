@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="devotional-content">
+
+  <header class="devotional-header">
+    <h1 class="devotional-title">{{ page.title }} - {{page.telugu_date}}</h1>
+    <!-- <p class="devotional-date">
+      📅 {{ page.telugu_date | default: page.date | date: "%B %d, %Y" }}
+    </p> -->
+  </header>
+
+  <section class="devotional-body">
+    {% assign devotional_content = content | markdownify %}
+    
+    {% for line in devotional_content %}
+      {% if line contains "🔹" or line contains "🔸" %}
+        <ul>
+          <li>{{ line }}</li>
+        </ul>
+      {% else %}
+        <p>{{ line }}</p>
+      {% endif %}
+    {% endfor %}
+  </section>
+
+</article>

@@ -1,0 +1,12 @@
+title: Steams in the Desert
+baseurl: "" # leave empty if deploying at root, else use subpath
+markdown: kramdown
+collections:
+  devotionals:
+    output: true
+    permalink: /te/:path.html
+
+plugins:
+  - jekyll-seo-tag
+
+future: true
