@@ -99,6 +99,6 @@ body, header, footer, main, section, article, nav, aside, p, ul, li, a {
   }
   
   p em {
-    color: #1565c0; /* Dark blue for emphasis in paragraphs */
+    color: #cf4711; /* Dark blue for emphasis in paragraphs */
     font-weight: bold;  
   }
