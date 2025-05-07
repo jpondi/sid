@@ -1,0 +1,127 @@
+/* General Styles */
+body, header, footer, main, section, article, nav, aside, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .devotional-content {
+    font-family: 'Noto Sans Telugu', sans-serif;
+    line-height: 1.6;
+    background-color: #fff9f9;  /* Soft pinkish background */
+  }
+  
+  .devotional-header {
+    text-align: center;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);  /* Peach gradient */
+    padding: 1px;
+  }
+  
+  .devotional-title {
+    margin: 1rem 0 0.5rem 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d32f2f;  /* Deep red */
+    text-shadow: 1px 1px 2px rgba(255,255,255,0.3);
+  }
+  
+  .devotional-date {
+    color: #e53935;  /* Lighter red */
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  
+  .devotional-body {
+    font-size: 1rem;
+    color: #424242;  /* Dark gray */
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 0 0 8px 8px;
+  }
+  
+  /* Bold Text */
+  strong {
+    color: #ff5722;  /* Vibrant orange */
+  }
+  
+  /* Bullet Points */
+  ul {
+    list-style-type: none;
+    padding-left: 1rem;
+  }
+  
+  ul li {
+    padding: 0.3rem 0;
+  }
+  
+  ul li::before {
+    content: "• ";
+    font-size: 1.5rem;
+    vertical-align: middle;
+    color: #4caf50;  /* Green */
+    line-height: 0;
+  }
+  
+  /* Special Sections */
+  .blessing {
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);  /* Soft blue gradient */
+    border-left: 5px solid #2196f3;
+    padding: 1.2rem;
+    margin: 1.5rem 0;
+    font-weight: bold;
+    text-align: center;
+    color: #0d47a1;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  .credit {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    color: #9e9e9e;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .share {
+    margin: 2rem 0;
+    font-weight: bold;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);  /* Sunny gradient */
+    border-left: 4px solid #ff9800;
+    padding: 1rem;
+    text-align: center;
+    color: #e65100;
+    border-radius: 8px;
+  }
+  
+  /* Links & Paragraphs */
+  a {
+    color: #7b1fa2;  /* Purple */
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  a:hover {
+    color: #e91e63;  /* Pink */
+    text-decoration: underline;
+  }
+  
+  p {
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  p em {
+    color: #e91e63;  /* Pink */
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  /* Bonus decorative elements */
+  .devotional-body:after {
+    content: "";
+    display: block;
+    height: 4px;
+    background: linear-gradient(to right, #ff9a9e, #fad0c4, #a1c4fd, #c2e9fb, #f6d365, #fda085);
+    margin-top: 1.5rem;
+    border-radius: 2px;
+  }

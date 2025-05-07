@@ -1,0 +1,104 @@
+/* General Styles */
+body, header, footer, main, section, article, nav, aside, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .devotional-content {
+    font-family: 'Noto Sans Telugu', sans-serif;
+    line-height: 1.4;
+    background-color: #f5f9ff;  /* Light blue background */
+  }
+  
+  .devotional-header {
+    text-align: center;
+    background-color: #e3f2fd;  /* Soft blue background for header */
+    padding: 1px;
+  }
+  
+  .devotional-title {
+    margin: 1rem 0 0.5rem 0;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #0d47a1;  /* Dark blue text for header */
+  }
+  
+  .devotional-date {
+    color: #1976d2;  /* Medium blue for date */
+    font-size: 0.95rem;
+  }
+  
+  .devotional-body {
+    font-size: 1rem;
+    color: #263238;  /* Dark grey for body text */
+    background-color: #ffffff; /* White background for content */
+    padding: .5rem;
+  }
+  
+  /* Bold Text in Blue */
+  strong {
+    color: #1565c0;  /* Darker blue for bold text */
+  }
+  
+  /* Style for Bullet Points */
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li::before {
+    content: "- 🔹 "; 
+    font-weight: bold;
+    color: #1976d2; /* Blue for bullet point */
+  }
+  
+  /* Special Sections */
+  .blessing {
+    background-color: #e1f5fe;  /* Light blue background for blessings */
+    border-left: 5px solid #0288d1;  /* Medium blue border */
+    padding: 1rem;
+    margin-top: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #01579b;  /* Dark blue text for emphasis */
+    border-radius: 8px;
+  }
+  
+  .credit {
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+    color: #607d8b; /* Grey-blue for credits */
+    text-align: center;
+  }
+  
+  .share {
+    margin-top: 1.5rem;
+    font-weight: bold;
+    background-color: #e3f2fd;  /* Light blue background for share section */
+    border-left: 4px solid #1e88e5;  /* Blue border for share section */
+    padding: 1rem;
+    text-align: center;
+    color: #0d47a1;  /* Dark blue text for share */
+    border-radius: 8px;
+  }
+  
+  /* Additional Styling for Links */
+  a {
+    color: #1565c0; /* Link color blue */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.4;
+    font-weight: bold;  
+  }
+  
+  p em {
+    color: #1565c0; /* Dark blue for emphasis in paragraphs */
+    font-weight: bold;  
+  }

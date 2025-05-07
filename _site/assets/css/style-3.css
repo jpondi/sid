@@ -1,0 +1,64 @@
+/* Jewel-Tone Color Theme - Only color changes */
+.devotional-content {
+    background-color: #f0f4f8;  /* Soft blue-gray */
+  }
+  
+  .devotional-header {
+    background-color: #e0e8f0;  /* Light slate blue */
+    border-bottom: 3px solid #3a5a78;  /* Deep navy */
+  }
+  
+  .devotional-title {
+    color: #2c3e50;  /* Dark midnight blue */
+  }
+  
+  .devotional-date {
+    color: #5d7793;  /* Medium slate blue */
+  }
+  
+  .devotional-body {
+    color: #34495e;  /* Dark blue-gray */
+    background-color: #ffffff; 
+  }
+  
+  /* Bold Text */
+  strong {
+    color: #8e44ad;  /* Amethyst purple */
+  }
+  
+  /* Bullet Points */
+  ul li::before {
+    color: #27ae60;  /* Emerald green */
+    content: "◆ ";  /* Diamond bullet */
+  }
+  
+  /* Special Sections */
+  .blessing {
+    background-color: #e8f4f8;  /* Pale aqua */
+    border-left: 5px solid #3498db;  /* Bright blue */
+    color: #2980b9;  /* Ocean blue */
+  }
+  
+  .credit {
+    color: #7f8c8d;  /* Neutral gray */
+  }
+  
+  .share {
+    background-color: #e8f8f5;  /* Mint cream */
+    border-left: 4px solid #1abc9c;  /* Turquoise */
+    color: #16a085;  /* Dark teal */
+  }
+  
+  /* Links */
+  a {
+    color: #c0392b;  /* Ruby red */
+  }
+  
+  a:hover {
+    color: #e74c3c;  /* Lighter ruby */
+  }
+  
+  /* Paragraph Emphasis */
+  p em {
+    color: #d35400;  /* Pumpkin orange */
+  }

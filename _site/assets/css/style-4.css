@@ -1,0 +1,67 @@
+/* General Styles */
+.devotional-content {
+    background-color: #f8f5fe;  /* Soft lavender background */
+  }
+  
+  .devotional-header {
+    background: linear-gradient(135deg, #b8c0ff 0%, #e7c6ff 100%);  /* Periwinkle to lilac gradient */
+  }
+  
+  .devotional-title {
+    color: #5a189a;  /* Deep purple */
+    text-shadow: 1px 1px 2px rgba(255,255,255,0.4);
+  }
+  
+  .devotional-date {
+    color: #7b2cbf;  /* Medium purple */
+  }
+  
+  .devotional-body {
+    color: #3a0ca3;  /* Dark blue-purple */
+    background-color: #ffffff;
+  }
+  
+  /* Bold Text */
+  strong {
+    color: #f72585;  /* Vibrant pink */
+  }
+  
+  /* Bullet Points */
+  ul li::before {
+    color: #4cc9f0;  /* Sky blue */
+  }
+  
+  /* Special Sections */
+  .blessing {
+    background: linear-gradient(to right, #c8e7ff 0%, #d8f3dc 100%);  /* Ice to mint gradient */
+    border-left: 5px solid #4895ef;
+    color: #1b4965;
+  }
+  
+  .credit {
+    color: #6c757d;  /* Cool gray */
+  }
+  
+  .share {
+    background: linear-gradient(135deg, #ffd6ff 0%, #bbd0ff 100%);  /* Cotton candy gradient */
+    border-left: 4px solid #b8c0ff;
+    color: #5e548e;
+  }
+  
+  /* Links & Paragraphs */
+  a {
+    color: #4361ee;  /* Royal blue */
+  }
+  
+  a:hover {
+    color: #7209b7;  /* Deep violet */
+  }
+  
+  p em {
+    color: #ef233c;  /* Crimson red */
+  }
+  
+  /* Decorative Elements */
+  .devotional-body:after {
+    background: linear-gradient(to right, #b8c0ff, #e7c6ff, #c8e7ff, #d8f3dc, #ffd6ff, #bbd0ff);
+  }
