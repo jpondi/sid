@@ -5,9 +5,9 @@ collections:
   devotionals:
     output: true
     permalink: /te/:path.html  # Telugu devotionals
-  en_md:
+  en:
     output: true
-    permalink: /en_md/:path.html  # English devotionals
+    permalink: /en/:path.html  # English devotionals
 
 plugins:
   - jekyll-seo-tag

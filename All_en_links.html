@@ -40,7 +40,7 @@ title: Devotional Navigation
 <h1 style="text-align:center;">Streams in the Desert - English</h1>
 
 <div class="navigation-container">
-  {% assign sorted = site.en_md | sort: "path" %}
+  {% assign sorted = site.en| sort: "path" %}
   {% for devotional in sorted %}
     {% assign filename = devotional.path | split: "/" | last | split: "." | first %}
     <a class="day-link" href="{{ devotional.url }}">

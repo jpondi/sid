@@ -133,7 +133,7 @@
                 date.setDate(baseDate.getDate() + i);
                 
                 // English version
-                createDayLink(daysGrid, date, 'en_md');
+                createDayLink(daysGrid, date, 'en');
                 
                 // Telugu version
                 createDayLink(daysGrid, date, 'te');
@@ -156,7 +156,7 @@
             daysGrid.className = 'days-grid';
             
             // English version
-            createDayLink(daysGrid, date, 'en_md', true);
+            createDayLink(daysGrid, date, 'en', true);
             
             // Telugu version
             createDayLink(daysGrid, date, 'te', true);
@@ -186,7 +186,7 @@
 
             const langSpan = document.createElement('span');
             langSpan.className = 'language';
-            langSpan.textContent = folder === 'en_md' ? '(English)' : '(Telugu)';
+            langSpan.textContent = folder === 'en' ? '(English)' : '(Telugu)';
 
             link.appendChild(dateSpan);
             link.appendChild(langSpan);
