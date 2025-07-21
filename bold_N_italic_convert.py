@@ -2,7 +2,7 @@ import os
 import re
 
 # Change this to the path where your devotional text files are stored
-folder_path = "_devotionals"
+folder_path = "j67"
 
 # Regex pattern to match _*text*_ and convert to ***text***
 pattern = re.compile(r'_\*(.*?)\*_')

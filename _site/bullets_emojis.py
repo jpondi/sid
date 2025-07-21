@@ -1,7 +1,7 @@
 import os
 import re
 
-input_folder = "_devotionals"
+input_folder = "j67"
 
 for filename in os.listdir(input_folder):
     if not filename.endswith(".md"):

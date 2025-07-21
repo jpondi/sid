@@ -1,7 +1,7 @@
 import os
 import re
 
-input_folder = "_devotionals"
+input_folder = "j67"
 
 for filename in os.listdir(input_folder):
     if not filename.endswith(".md"):
@@ -32,7 +32,7 @@ for filename in os.listdir(input_folder):
         for line in body_lines:
             stripped = line.strip()
 
-            if stripped == "**దైవాశ్శీసులు!!!**":
+            if stripped == "*దైవాశ్శీసులు!!!*":
                 final_body.append('<div class="blessing">🙏 <span class="bless-text">దైవాశ్శీసులు!!!</span> ✨</div>\n')
             elif "సంకలనం" in stripped:
                 final_body.append('<div class="credit">✍️ <span class="credit-text">▪ సంకలనం - చార్లెస్ ఇ. కౌమన్</span></div>\n')
